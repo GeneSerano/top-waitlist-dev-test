@@ -38,7 +38,7 @@ We recommend you use WSL for development as it simplifies working with the `back
 ##### 1. Required Software: 
 Check that mysql-server, nodejs, npm, sqlite3, and cargo are installed on your system: 
 ```
-sudo apt install mysql-server nodejs npm sqlite3 cargo
+sudo apt install mysql-server nodejs npm sqlite3 cargo git docker-compose
 ```
 
 ##### 2. Register an ESI Application
