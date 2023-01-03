@@ -88,11 +88,11 @@ export const icons = {
   
   // Specalist Badges
   LOGI: { type: "shield", color: "green", letter: "L", name: "Logi Specialist" },
-  BASTION: { type: "shield", color: "cyan", letter: "B", name: "Bastion Specialist" },
+  BASTION: { type: "shield", color: "blue", letter: "B", name: "Bastion Specialist" },
   WEB: { type: "shield", color: "cyan", letter: "W", name: "Web Specialist" },
   
   // Other
-  "ELITE-GOLD": { type: "shield", color: "yellow", letter: "G", name: "Elite Gold" },
+  "ELITE-GOLD": { type: "shield", color: "yellow", letter: "E", name: "Elite Gold" },
   ELITE: { type: "shield", color: "neutral", letter: "E", name: "Elite" },
   UNKNOWN: { type: "shield", color: "neutral", letter: "?", name: null },
 };
